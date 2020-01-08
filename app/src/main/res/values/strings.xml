@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">eWages</string>
+    <string name="employee_Name">employeeName</string>
+    <string name="employee_Id">employeeId</string>
+    <string name="rate_PerHour">rate_PerHour</string>
+    <string name="overtime_Hours">overtime_Hours</string>
+    <string name="GrossSalary">grossSalary</string>
+</resources>
